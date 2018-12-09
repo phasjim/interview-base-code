@@ -5,10 +5,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { FormsModule } from '@angular/forms';
 
 import {
-  MatButtonModule,
-  MatFormFieldModule,
-  MatInputModule,
-  MatToolbarModule
+  MatButtonModule
 } from '@angular/material';
 
 import { AppComponent } from './app.component';
